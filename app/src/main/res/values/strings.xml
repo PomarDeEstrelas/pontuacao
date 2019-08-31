@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">pontuacao</string>
+    <string name="title_activity_lista">ListaActivity</string>
+</resources>
